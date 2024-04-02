@@ -1,0 +1,1 @@
+The weather app project aims to provide real-time weather updates to users based on their location or specified location input. It utilizes APIs to fetch weather data such as temperature, humidity, wind speed, and forecasts, presenting this information in a user-friendly interface for easy access and understanding.
